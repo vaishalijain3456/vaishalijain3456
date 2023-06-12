@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishali Jain</h1>
-<h3 align="center">Ambitious entry-level engineer committed to successful project rollouts with ability to work with all types of personalities. Enthusiastic coder eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Motivated to learn, grow and excel in IT industry.</h3>
+<h3 align="center">Enthusiastic coder eager to contribute to team success through hard work, attention to detail and excellent organizational skills and ability to work with all types of latest technologies. Motivated to learn, grow and excel in IT industry.</h3>
 
 - 🔭 I’m currently working on [SeekaBook](https://github.com/Scholasticpal/SeekABook_Backend-Updated-)
 
