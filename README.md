@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vaishali Jain</h1>
 <h3 align="center">Enthusiastic coder eager to contribute to team success through hard work, attention to detail and excellent organizational skills and ability to work with all types of latest technologies. Motivated to learn, grow and excel in IT industry.</h3>
 
-- 🔭 I’m currently working on [SeekaBook](https://github.com/Scholasticpal/SeekABook_Backend-Updated-)
+- 🔭 I’m currently working on [Full Stack MERN Projects]
 
 - 🌱 I’m currently learning **ML and DL**
 
-- 👯 I’m looking to collaborate on **Web and ML Research Projects**
+- 👯 I’m looking to collaborate on **ML Research Projects**
 
-- 🤝 I’m looking for help with **amazing projects and internships**
+- 🤝 I’m looking for help with **community projects and internships**
 
 - 📫 How to reach me **vaishalijain3456@gmail.com**
 
